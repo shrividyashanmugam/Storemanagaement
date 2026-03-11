@@ -1,0 +1,21 @@
+Product Class
+- attributes
+- getter setter constructor tostring
+- purposely default avoid
+- POJO (plain old java objects) and JAVA bean
+- Java bean
+    - private atrributes
+    - public methods
+    - getter setter
+- final
+    - final - attribute- cannot be changed
+    - final - methods - cannot be overriden
+    - final - class - cannot be inherited
+- static
+    - declare members that belong to the class itself, rather than any specific instance
+      ProductList
+- Collections
+    - List
+- Generic
+- Polymorphism with baseclass/interface variable and derived class object with new keyword
+- Association - aggregation - composition
